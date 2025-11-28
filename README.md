@@ -1,2 +1,2 @@
 # my-portfolio
-The official digital portfolio of Mustapha Marvelous. Showcasing key technical skill and projects developed in allignment with DeTrend Creative Dev.
+This is my first landing page project, showcasing my HTML, CSS Flexbox and Grid 
